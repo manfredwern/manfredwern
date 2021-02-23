@@ -1,6 +1,6 @@
 ## Hi! I'm Manfred. 👋
 
-Welcome to my digital hub. Here you are able to find the projects that I'm currently working on where I practice my skills to bring ideas to life 🧑‍💻 
+Welcome to my digital hub. Here you are able to find the projects that I'm currently working on and a place where I practice my skills to bring ideas to life 🧑‍💻 
 
 I'm a naturally curious person in search of new coding experiences.
 
