@@ -5,7 +5,7 @@ Welcome to my digital hub! Here, I showcase the projects I'm currently bringing 
 Driven by curiosity, I relentlessly pursue new coding experiences and challenges.
 
 ## Github Stats 📊
-Below are representations about my activities in Github and a general info about the programming languages I have used.
+Below, you'll find snapshots of my GitHub activity alongside a summary of the programming languages I've mastered.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=manfredwern&show_icons=true&theme=onedark&hide=contribs" />
