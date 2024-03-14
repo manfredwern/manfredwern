@@ -1,8 +1,8 @@
 # Hi! I'm Manfred. 👋
 
-Welcome to my digital hub! Here, you'll discover the projects I'm currently developing—a place where I bring ideas to life and hone my skills as a software engineer. 🧑‍💻
+Welcome to my digital hub! Here, I showcase the projects I'm currently bringing to life as a software engineer—a space where ideas flourish and skills evolve. 🧑‍💻
 
-As a naturally curious individual, I'm always seeking new coding experiences and challenges.
+Driven by curiosity, I relentlessly pursue new coding experiences and challenges.
 
 ## Github Stats 📊
 Below are representations about my activities in Github and a general info about the programming languages I have used.
