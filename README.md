@@ -19,9 +19,11 @@ Below, you'll find snapshots of my GitHub activity alongside a summary of the pr
 
 As of now, I'm currently:
 - 🔭 working on my portfolio manfredwern.github.io
-- 🌱 learning <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="19" height="19"/> </a> <a href="https://reactjs.org/" target="_blank"> Python and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="19" height="19"/> React
+- 🌱 learning <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="19" height="19"/> </a> <a href="https://reactjs.org/" target="_blank"> Python
+
 
 <!--
+- and <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="19" height="19"/> React
 **manfredwern/manfredwern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
